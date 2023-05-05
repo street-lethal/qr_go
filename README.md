@@ -9,3 +9,9 @@
 ```shell
 ./main
 ```
+
+もしくは
+
+```shell
+goenv exec go run main.go
+```
